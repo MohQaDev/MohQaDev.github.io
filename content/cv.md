@@ -43,7 +43,7 @@ IGCSE & A-Level *(Tawjihi Equivalency)* — *Graduated 2022*
 
 ### UNRWA HQA (Headquarters) — Amman, Jordan
 
-**Software Development Intern**  •  *Aug 2026 – Present*
+**Digital Transformation Intern**  •  *Aug 2026 – Present*
 
 - **AutoDoc (Enterprise AI Documentation Tool):** Conceived and developed an automated documentation generator following an AI research initiative. Pulls repos from Azure, runs cloud-based agents to generate architecture-compliant documentation with diagrams conforming to Microsoft Azure standards (icons, styling). Features multi-project queueing and parallel execution. Optimized costs and maintained high accuracy using `fastembedder` and Qdrant vector search. Utilized `korki`, `korki-mermaid`, and `weasyprint` with `.mjs` scripts to generate HTML, PDF, Markdown, and editable Draw.io diagrams. Automated publishing pipelines for Backstage-friendly TechDocs pushed directly to enterprise GitHub.
 - **KFW_Reports:** Developed and deployed a new version of the KFW Reports application in PowerApps to track business progress goals across UNRWA’s education and health departments, integrating Metaverse DB and SharePoint for attachments.
