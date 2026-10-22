@@ -6,7 +6,7 @@ Amman, Jordan | +962-79-767-8128 | mohqa.dev@outlook.com | <a href="https://www.
 
 **About me**
 
-Final-year Computer Science student at PSUT with hands-on experience building full-stack applications across mobile, backend, and database layers. Comfortable taking a project from schema design to deployment, and quick to pick up new stacks. Looking to join a team where I can contribute from day one and keep growing as a developer.
+Final-year Computer Science student at PSUT with hands-on experience building full-stack applications across mobile, backend, database, and enterprise cloud layers. Comfortable taking a project from schema design to deployment, and quick to pick up new stacks. Looking to join a team where I can contribute from day one and keep growing as a developer.
 
 <div style="page-break-inside: avoid; break-inside: avoid;">
 
@@ -39,13 +39,16 @@ IGCSE & A-Level *(Tawjihi Equivalency)* | *Graduated 2022*
 
 **Digital Transformation Intern** | *Aug 2026 – Present*
 
-- **AutoDoc (Enterprise AI Documentation Tool):** Conceived and developed an automated documentation generator following a research initiative on enterprise AI use cases. Pulls repositories from **Azure**, runs **cloud-based agents** to generate architecture-compliant documentation with diagrams conforming to **Microsoft Azure standards** (using standard icons and styling). Integrated features for multi-project queuing and parallel agent execution. **Optimized costs** and maintained high accuracy by implementing `fastembedder` and Qdrant vector search. Utilized `korki`, `korki-mermaid`, and `weasyprint` with custom `.mjs` scripting to produce HTML, PDF, Markdown, and editable Draw.io diagrams from specifications. Prepared generated documentation for publishing by integrating **Backstage**-friendly **TechDocs** and pushing directly to the **enterprise GitHub**.
+- **AutoDoc (Enterprise AI Documentation Tool):** Conceived and engineered an automated documentation generator following an enterprise AI research initiative. The system pulls repositories from Azure and deploys cloud-based agents to generate architecture-compliant documentation accompanied by diagrams conforming strictly to Microsoft Azure standards (icons, styling, and layouts), supporting multi-project queueing and parallel agent execution.
+  - **Cost & Vector Optimization:** Integrated `fastembedder` and Qdrant vector database storage to drastically reduce AI operational token costs while maintaining high semantic accuracy.
+  - **Spec-Driven Rendering:** Leveraged `korki`, `korki-mermaid`, and `weasyprint` driven by custom `.mjs` scripting to render clean HTML, PDF, Markdown, and fully editable Draw.io architecture diagrams directly from specs at minimal cost.
+  - **Enterprise Publishing Pipeline:** Automated the end-to-end publishing workflow to generate Backstage-friendly TechDocs, enabling seamless integration and developer viewing across the enterprise GitHub portal.
 - **KFW_Reports:** Developed and **deployed** a new version of the KFW Reports application using **PowerApps** to track business progress goals across UNRWA’s education and health departments. Integrated Metaverse databases and **SharePoint** for attachments, adding custom screens, views, and functional features.
 - **eUNURWA:** Contributing to the ongoing development of the eUNURWA platform, working with **React Native, PostgreSQL, Metaverse DB, Logic Apps, Dynamics 365, and Power Automate**.
 
 ### JoBlood – Open-Source Blood Bank System
 
-**Flutter Developer & Backend Developer** | *[Ongoing]* | *University Final Year Project*
+**Flutter Developer & Backend Developer** | *University Final Year Project*
 
 - Developing a **full-stack**, multi-role blood bank management system that digitizes the full donation lifecycle — from donor scheduling and staff-recorded donations to lab storage monitoring and administrative oversight.
 - **Frontend (Flutter/Dart):** Built a **responsive cross-platform interface** supporting mobile, web, and desktop; implemented **role-based navigation** across four user roles (Donor, Lab Staff, Lab Manager, Admin), a 4-step donation scheduling wizard, live temperature graphs using CustomPainter, and a live Arabic/English language toggle — all using ValueNotifier with no external state management packages.
@@ -118,6 +121,7 @@ IGCSE & A-Level *(Tawjihi Equivalency)* | *Graduated 2022*
 **Social Media Backend – NestJS (Sample)**
 
 - Contributed to a backend sample for a social media application using NestJS, written under the guidance of an experienced instructor, focusing on backend structure and best practices.
+
 - GitHub: [Social-Media-Be-Backend-Sample](https://github.com/MohQaDev/Social-Media-Be-Backend-Sample)
   
   </div>
