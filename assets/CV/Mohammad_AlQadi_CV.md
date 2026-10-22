@@ -35,6 +35,14 @@ IGCSE & A-Level *(Tawjihi Equivalency)* | *Graduated 2022*
 
 ## RELEVANT EXPERIENCE
 
+### UNRWA HQA (Headquarters) — Amman, Jordan
+
+**Digital Transformation Intern** | *Aug 2026 – Present*
+
+- **AutoDoc (Enterprise AI Documentation Tool):** Conceived and developed an automated documentation generator following a research initiative on enterprise AI use cases. Pulls repositories from **Azure**, runs **cloud-based agents** to generate architecture-compliant documentation with diagrams conforming to **Microsoft Azure standards** (using standard icons and styling). Integrated features for multi-project queuing and parallel agent execution. **Optimized costs** and maintained high accuracy by implementing `fastembedder` and Qdrant vector search. Utilized `korki`, `korki-mermaid`, and `weasyprint` with custom `.mjs` scripting to produce HTML, PDF, Markdown, and editable Draw.io diagrams from specifications. Prepared generated documentation for publishing by integrating **Backstage**-friendly **TechDocs** and pushing directly to the **enterprise GitHub**.
+- **KFW_Reports:** Developed and **deployed** a new version of the KFW Reports application using **PowerApps** to track business progress goals across UNRWA’s education and health departments. Integrated Metaverse databases and **SharePoint** for attachments, adding custom screens, views, and functional features.
+- **eUNURWA:** Contributing to the ongoing development of the eUNURWA platform, working with **React Native, PostgreSQL, Metaverse DB, Logic Apps, Dynamics 365, and Power Automate**.
+
 ### JoBlood – Open-Source Blood Bank System
 
 **Flutter Developer & Backend Developer** | *[Ongoing]* | *University Final Year Project*
@@ -157,9 +165,9 @@ IGCSE & A-Level *(Tawjihi Equivalency)* | *Graduated 2022*
 
 ## SKILLS & ATTRIBUTES
 
-- **Fast Learner & Adaptable:** Demonstrates a strong ability to rapidly pick up new technologies, frameworks, and environments — evidenced by contributions across mobile, backend, web, and cloud domains.
+- **Fast Learner & Adaptable:** Demonstrates a strong ability to rapidly pick up new technologies, frameworks, and environments — evidenced by contributions across mobile, backend, web, low-code/cloud platforms, and AI tooling.
   - **Linux:** Daily driver for development — comfortable with the command line, file system, process management, and server-side operations.
-- **Languages & Frameworks:** C++, Dart, Flutter, Shelf, NestJS, NodeJs, JavaScript, HTML/CSS, SQL, NoSQL, PostgreSQL, Java, C# / .NET
+- **Languages & Frameworks:** Power Fx, C++, Dart, Flutter, Shelf, NestJS, NodeJs, JavaScript, React Native, HTML/CSS, SQL, NoSQL, PostgreSQL, Java, C# / .NET
   - Comfortable working across multiple paradigms and runtimes — primary depth in Dart/Flutter and Node.js, with working knowledge of Java and C# / .NET applied through academic coursework and self-study.
-- **Tools & Platforms:** Firebase, AWS, Figma, Git/GitHub, Linux
-- **AI Proficiency:** Adept at leveraging AI tools effectively to accelerate development.
+- **Tools & Platforms:** Azure, PowerApps, Power Automate, Dynamics 365, SharePoint, Metaverse DB, Backstage, Firebase, AWS, Figma, Git/GitHub, Linux
+- **AI Proficiency:** Adept at leveraging AI tools and building agentic document generation workflows effectively to accelerate development and optimize operational costs.
