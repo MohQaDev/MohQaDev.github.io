@@ -45,7 +45,10 @@ IGCSE & A-Level *(Tawjihi Equivalency)* — *Graduated 2022*
 
 **Digital Transformation Intern**  •  *Aug 2026 – Present*
 
-- **AutoDoc (Enterprise AI Documentation Tool):** Conceived and developed an automated documentation generator following an AI research initiative. Pulls repos from Azure, runs cloud-based agents to generate architecture-compliant documentation with diagrams conforming to Microsoft Azure standards (icons, styling). Features multi-project queueing and parallel execution. Optimized costs and maintained high accuracy using `fastembedder` and Qdrant vector search. Utilized `korki`, `korki-mermaid`, and `weasyprint` with `.mjs` scripts to generate HTML, PDF, Markdown, and editable Draw.io diagrams. Automated publishing pipelines for Backstage-friendly TechDocs pushed directly to enterprise GitHub.
+- **AutoDoc (Enterprise AI Documentation Tool):** Conceived and engineered an automated documentation generator following an enterprise AI research initiative. The system pulls repositories from Azure and deploys cloud-based agents to generate architecture-compliant documentation accompanied by diagrams conforming strictly to Microsoft Azure standards (icons, styling, and layouts), supporting multi-project queueing and parallel agent execution.
+  - **Cost & Vector Optimization:** Integrated `fastembedder` and Qdrant vector database storage to drastically reduce AI operational token costs while maintaining high semantic accuracy.
+  - **Spec-Driven Rendering:** Leveraged `korki`, `korki-mermaid`, and `weasyprint` driven by custom `.mjs` scripting to render clean HTML, PDF, Markdown, and fully editable Draw.io architecture diagrams directly from specs at minimal cost.
+  - **Enterprise Publishing Pipeline:** Automated the end-to-end publishing workflow to generate Backstage-friendly TechDocs, enabling seamless integration and developer viewing across the enterprise GitHub portal.
 - **KFW_Reports:** Developed and deployed a new version of the KFW Reports application in PowerApps to track business progress goals across UNRWA’s education and health departments, integrating Metaverse DB and SharePoint for attachments.
 - **eUNURWA:** Contributing to the eUNURWA platform, working with React Native, PostgreSQL, Metaverse DB, Logic Apps, Dynamics 365, and Power Automate.
 
